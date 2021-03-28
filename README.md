@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Artermes27
+- 👀 I’m interested in visual basics script and pentesting in linux
+- 🌱 I’m currently learning blackarch and python GUI development for school
+- 💞️ I’m looking to collaborate on malwere or anything in the gcse aqa computer science sylibus
+- 📫 How to reach me my discord @Artermes27#4584
