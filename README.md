@@ -65,8 +65,7 @@ Independent dissertation on AI ethics and regulation, drawing on research from I
 | Languages | Python · Java · JavaScript · PHP · SQL |
 | Data & AI | GPT-4 fine-tuning · RAG · Prompt engineering · Data modelling |
 | Backend | MySQL · Apache · REST · PHP sessions |
-| Automation | pyautogui · Bash · Cron |
-| Tools | Git · Linux · i3wm |
+| Tools | Git · Linux · Bash |
 
 ---
 
