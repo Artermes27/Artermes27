@@ -53,8 +53,8 @@ End-to-end automation bot that monitored a live Wix storefront, parsed order exp
 
 ---
 
-### EPQ: Artificial Intelligence — Ethics & Regulation · Age 17
-Independent dissertation on AI ethics and regulation, drawing on research from IBM, Google DeepMind, and gov.uk. Established a firm foundation in the ethical considerations that must be applied to AI systems.
+### [EPQ: Artificial Intelligence — Ethics & Regulation](https://github.com/Artermes27/epq-ai-ethics-regulation) · Age 17
+5,000-word independent dissertation examining AI categories, ethical concerns for consumers and developers, and a comparative analysis of UK and EU regulatory approaches. Drawing on sources including IBM, Google DeepMind, the UK AI White Paper, the EU AI Act, and the Bletchley Declaration.
 
 ---
 
