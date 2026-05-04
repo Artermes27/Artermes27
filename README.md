@@ -23,7 +23,7 @@ I'm a CS student at Sheffield who genuinely enjoys building things — whether t
 - Worked directly with GPT-4 fine-tuning: prompt engineering, RAG, and technical parameters (temperature, topP, topK)
 - Developed practical understanding of how language models can be customised for domain-specific use cases
 
-**Mulleny Group** — Data Science & AI Work Experience *(June 2024)*
+**Mulleny Group** — Work Experience *(June 2024)*
 - Rotated across four business units (MSS, City Calling, Bridgehead Consultancy), gaining a broad view of how a multi-disciplinary professional services group operates
 
 ---
