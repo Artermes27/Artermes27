@@ -1,6 +1,6 @@
 # Henry McMahon
 
-First-year BSc Computer Science student at the University of Sheffield with a strong foundation in AI, data systems, and software engineering. Motivated by the intersection of human decision-making and intelligent systems — seeking opportunities in data and AI where analytical thinking and practical programming skills can be applied to real-world problems.
+I'm a CS student at Sheffield who genuinely enjoys building things — whether that's a full management system for a cadet detachment, a bot that automates a live storefront, or digging into how AI models actually work under the hood. I'm most interested in the data and AI side of software: how you get useful outputs from messy real-world inputs, how language models can be shaped for specific domains, and how intelligent systems interact with the people using them. Outside of uni projects I tend to find a problem that bugs me and just start building — which is usually where I learn the most.
 
 📧 mcmahonhenry1@outlook.com · 📍 St Albans, Hertfordshire
 
